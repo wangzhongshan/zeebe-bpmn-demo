@@ -6,7 +6,7 @@
     {"pattern":"\\QDI.xsd\\E"},
     {"pattern":"\\QSemantic.xsd\\E"},
     {"pattern":"\\QXMLSchema.xsd\\E"},
-    {"pattern":"\\QF245261615950819104903590.bpmn\\E"}
+    {"pattern":"\\Qdemo.bpmn\\E"}
   ],
   "bundles":[
     {"name":"com.sun.org.apache.xerces.internal.impl.xpath.regex.message"},
