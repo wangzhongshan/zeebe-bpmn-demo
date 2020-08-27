@@ -1,0 +1,15 @@
+{
+  "resources":[
+    {"pattern":"\\QBPMN20.xsd\\E"},
+    {"pattern":"\\QBPMNDI.xsd\\E"},
+    {"pattern":"\\QDC.xsd\\E"},
+    {"pattern":"\\QDI.xsd\\E"},
+    {"pattern":"\\QSemantic.xsd\\E"},
+    {"pattern":"\\QXMLSchema.xsd\\E"},
+    {"pattern":"\\QF245261615950819104903590.bpmn\\E"}
+  ],
+  "bundles":[
+    {"name":"com.sun.org.apache.xerces.internal.impl.xpath.regex.message"},
+    {"name": "com.sun.org.apache.xerces.internal.impl.msg.XMLSchemaMessages"}
+  ]
+}
